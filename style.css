@@ -156,6 +156,7 @@ body {
         1.015rem + 0.783vw,
         var(--font-size-500)
     );
+    font-weight: 800;
     cursor: pointer;
     transition: color 300ms ease;
 }
